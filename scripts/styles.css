@@ -1,0 +1,11 @@
+.my-extension-popup {
+  /* opacity: 0.5; */
+  position: absolute;
+  background: white;
+  color: black;
+  padding: 6px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  z-index: 9999;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
